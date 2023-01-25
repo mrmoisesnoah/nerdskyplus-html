@@ -6,9 +6,9 @@ Projeto de página em HTML5 e CSS3, desenvolvimento da página Nerdsky+, para di
 
 ✔️ Tecnologias utilizadas
 
-*HTML5 
-*CSS3 
-*GRID 
-*FLEXBOX 
-*Visual Studio
-*Figma
+* HTML5;
+* CSS3;
+* GRID;
+* Flexbox;
+* Visual Studio;
+* Figma.
