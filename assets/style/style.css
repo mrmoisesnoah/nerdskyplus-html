@@ -86,3 +86,7 @@
  .descricao__texto {
     color: var(--cinza-secundario);
  }
+
+ .secudario__botao {
+    display: inline-block;
+ }
