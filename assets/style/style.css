@@ -90,3 +90,25 @@
  .secudario__botao {
     display: inline-block;
  }
+
+.dispositivos {
+   text-align: center;
+}
+
+ .dispositivos__lista {
+   display: flex;
+   justify-content: center;
+   list-style-type: none;
+   margin-bottom: 2em;
+ }
+
+ .dispositivos__titulo{
+   font-size: 48px;
+   color: var(--branco-principal);
+ }
+
+ .lista__item{
+   font-size: 32px;
+   color: var(--cinza-secundario);
+
+ }
